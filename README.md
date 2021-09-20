@@ -18,3 +18,4 @@ Given historical data on loans given out with information on whether or not the 
 5. Sikit learn
 6. Tensorflow
 7. keras
+8. Deep Learning
